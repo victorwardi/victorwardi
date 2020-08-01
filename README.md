@@ -3,9 +3,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Victor Wardi</h1>
-<h3 align="center">Java Software Developer</h3>
-
-- 🔭 I’m currently working on [Correios](http://www.correios.com.br)
+<h3 align="center">Java Software Developer [@Correios](http://www.correios.com.br) </h3>
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 

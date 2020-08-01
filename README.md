@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 

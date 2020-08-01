@@ -3,11 +3,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 
 
-<h1 align="center">Hi there 👋, I'm Gustavo Primolan</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hi there 👋, I'm Victor Wardi</h1>
+<h3 align="center">Java Software Developer</h3>
 
 - 🔭 I’m currently working on [Correios](http://www.correios.com.br)
-- 📫 How to reach me **gustavoprimolan@hotmail.com**
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
